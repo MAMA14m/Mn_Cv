@@ -1,0 +1,36 @@
+.lightZone
+{
+    background-color: rgb(207, 207, 207);
+    color: rgb(39, 36, 36);
+}
+.darkZone
+{
+    background-color: rgb(8, 7, 7);
+    color: rgb(230, 230, 230);
+}
+.lightZone h1
+{
+    border-bottom: solid rgb(77, 74, 74);
+    font-size: 38px;
+}
+.darkZone h1
+{
+    border-bottom: rgb(230, 230, 230);
+    font-size: 30px;
+}
+.lightZone section section h1
+{
+    border: none;
+    font-size: 20px;
+}
+.text
+{
+    font-weight: bold;
+    font-size: xx-large;
+    justify-content: space-between;
+}
+.text span
+{
+    padding: 5px;
+    float: left;
+}
